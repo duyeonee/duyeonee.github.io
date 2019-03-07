@@ -110,7 +110,7 @@ author:
   name             : "dubicom"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hi"
-  location         : "your monitor"
+  location         : "here"
   email            :
   links:
     - label: "Email"
